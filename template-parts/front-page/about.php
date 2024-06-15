@@ -22,8 +22,8 @@
     <div class="about-right-child">
      <div class="swiper mySwiper">
        <div class="swiper-wrapper">
-         <div class="swiper-slide"><img src="https://cdn.suwalls.com/wallpapers/nature/foggy-forest-on-the-river-side-54426-1920x1080.jpg" alt="image"></div>
-         <div class="swiper-slide"><img src="https://img.goodfon.com/wallpaper/nbig/1/4e/nature-view-walk-grass-trees.webp" alt="image"></div>
+         <div class="swiper-slide"><img src="https://cdn.suwalls.com/wallpapers/nature/foggy-forest-on-the-river-side-54426-1920x1080.jpg" ></div>
+         <div class="swiper-slide"><img src="https://img.goodfon.com/wallpaper/nbig/1/4e/nature-view-walk-grass-trees.webp"></div>
          <div class="swiper-slide"><img src="https://cdn.suwalls.com/wallpapers/nature/sunrise-over-the-mountains-17063-1920x1200.jpg"></div>
          <div class="swiper-slide"><img src="https://tse1.mm.bing.net/th?id=OIP.YAXlTjvtEKchdMVc5laZhwHaE8&pid=Api&P=0&h=180"></div>
          <div class="swiper-slide"><img src="https://tse3.mm.bing.net/th?id=OIP.zJ3HYpfFdUvLAWDs-OaESAHaFM&pid=Api&P=0&h=180"></div>
