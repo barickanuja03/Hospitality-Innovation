@@ -30,7 +30,7 @@
          <div class="swiper-slide"><img src="https://tse4.mm.bing.net/th?id=OIP.IjVtiYa8J6DbPjiCfNdc_AHaF7&pid=Api&P=0&h=180"></div>
          <div class="swiper-slide"><img src="https://tse4.mm.bing.net/th?id=OIP.ZaSf7GzYb3lmQzzGwXNG4gHaEK&pid=Api&P=0&h=180"></div>
          <div class="swiper-slide"><img src="https://tse1.mm.bing.net/th?id=OIP.VyeGOidyaY2qOUtlJD55BgHaFE&pid=Api&P=0&h=180"></div>
-         <div class="swiper-slide"><img src="https://tse3.mm.bing.net/th?id=OIP.sYvZzeW9V95lDL4u7QSvWgHaEK&pid=Api&P=0&h=180"></div>
+         <div class="swiper-slide"><img src="https://getwallpapers.com/wallpaper/full/c/7/1/460702.jpg"></div>
        </div>
        <div class="swiper-scrollbar"></div>
      </div>
